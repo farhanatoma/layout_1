@@ -1,0 +1,46 @@
+
+body {
+	text-align: center;
+}
+
+#hero,#content,footer {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.brand,.global_nav,.tools {
+	min-height: 100px;
+	margin:15px 0;
+}
+.common_bg {
+	background-color: #9FC5F8;
+}
+.content_bg {
+	background-color: #CFE2FB;
+}
+.hero_feature,.hero_call_action {
+	min-height: 200px;
+	margin: 15px 0;
+}
+.add {
+	background-color: #6FA8DC;
+	min-height: 230px;
+}
+.padding-right-disable {
+	padding-right: 0;
+}
+
+.article_feature,.article_listing {
+	min-height: 500px;
+	margin:25px 0;
+}
+.sidebar {
+	overflow: hidden;
+}
+.sidebar_content {
+	min-height: 500px;
+	margin: 25px;
+}
+.footer{
+    min-height: 100px;
+}

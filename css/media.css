@@ -1,0 +1,29 @@
+
+@media (max-width: 575.98px) { 
+	.padding-left-disable {
+		padding-left: 0px;
+	}
+	.add {
+		margin-right: 15px;
+	}
+  
+}
+@media (min-width: 576px) and (max-width: 767px) { 
+	.add {
+
+		min-height: 200px;
+		margin:25px 0;
+	}
+	.article_feature {
+		min-height: 200px;
+	}
+	.padding-left-disable {
+		padding-left: 0px;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px) { 
+
+ }
+
+@media (min-width: 992px) and (max-width: 1199px) { ... }
+@media (min-width: 1200px) { ... }
